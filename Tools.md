@@ -78,3 +78,8 @@ Type: publication <br>
 Brief description: Workshop on linguistic complexity, a notion somewhat similar to diversity but addressed with different objectives (e.g.language learning or text simplification).<br>
 Provided by: Agata Savary<br><br>
 
+Title: [Science of Learning and Educational Technology / NLP Tools](https://soletlab.asu.edu/)<br>
+Authors: Science of Learning and Educational Technology - Institute for the Science of Teaching and Learning (ISTL) at Arizona State University.<br>
+Type: Web Page <br>
+Brief description: PNL free tools for measuring linguistic diversity. It includes links to these tools, evaluation papers and a brief description of each one (e.g. CRAT, Coh-Metrix, QUAID, SEANCE...).<br>
+Provided by: Lucía Amorós-Poveda <br>
