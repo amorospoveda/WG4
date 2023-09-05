@@ -4,7 +4,7 @@ Type: publication <br>
 Brief description: A paper published at COLING 2022, describing measures of diversity applied to MWEs annotated in 14 languages. <br>
 
 Title: [The Measurement of Linguistic Diversity](https://www.jstor.org/stable/410659) <br>
-Authors: AJoseph H. Greenberg <br>
+Authors: Joseph H. Greenberg <br>
 Type: publication <br>
 Brief description: The initial models for measuring linguistic diversity, which date back to 1956, were developed within the field of mathematics. <br>
 Provided by: Lucía Amorós-Poveda <br>
