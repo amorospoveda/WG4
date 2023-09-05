@@ -17,13 +17,13 @@ Brief description: This is a multilingual PDF map provided by the EU that displa
 Provided by: Lucía Amorós-Poveda
 
 Title: [The World Atlas of Language Structures (WALS)](https://data.europa.eu/doi/10.2861/271656) <br>
-Authors: Dryer, Matthew S. & Haspelmath, Martin (Eds.) <br>
+Authors: Matthew S. Dryer, Martin Haspelmath (Eds.) <br>
 Type: database - 2013 <br>
 Brief description: WALS documents the structural features of languages, including phonological, grammatical, and lexical traits. The platform offers a range of descriptive materials, such as reference grammars. Language diversity is assessed through the links in the navigation bar under "Authors", "Features" and "Chapters".  The 'Languages' menu also offers the option of browsing and searching for languages. <br>
 Provided by: Lucía Amorós-Poveda
 
 Title: [Sorbung, an undocumented language of Manipur: Its phonology and place in Tibeto-Burman ](https://www.cs.cmu.edu/~dmortens//assets/pdf/mortensen2011sorbung.pdf) <br>
-Authors: David Mortensen & Jennifer Keogh  <br>
+Authors: David Mortensen, Jennifer Keogh  <br>
 Type: publication <br>
 Brief description: The Sorbung (Tibeto-Burman language of Manipur, India) is introduced offering interesting data and problems to both the historical and synchronic linguists. They include a Sorbung Word List. <br>
 Provided by: Lucía Amorós-Poveda
