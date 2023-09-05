@@ -25,7 +25,7 @@ Provided by: Lucía Amorós-Poveda
 Title: [Sorbung, an undocumented language of Manipur: Its phonology and place in Tibeto-Burman ](https://www.cs.cmu.edu/~dmortens//assets/pdf/mortensen2011sorbung.pdf) <br>
 Authors: David Mortensen & Jennifer Keogh  <br>
 Type: publication <br>
-Brief description: The Sorbung (Tibeto-Burman language of Manipur, India) it is introduced offering interesting data and problems to both the historical and synchronic linguists. They include a Sorbung Word List. <br>
+Brief description: The Sorbung (Tibeto-Burman language of Manipur, India) is introduced offering interesting data and problems to both the historical and synchronic linguists. They include a Sorbung Word List. <br>
 Provided by: Lucía Amorós-Poveda
 
 
